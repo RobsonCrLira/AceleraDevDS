@@ -19,7 +19,7 @@ Neste desafio você aprenderá:
 
 Você precisará de python 3.6 (ou superior).
 
-O recomendado é você utilizar um [ambiente virtual](https://pythonacademy.com.br/blog/python-e-virtualenv-como-programar-em-ambientes-virtuais). Para isto, execute os comandos como no exemplo abaixo:
+O recomendado é você utilizar um ambiente virtual. Para isto, execute os comandos como no exemplo abaixo:
 
     pip3 install virtualenv
     virtualenv venv -p python3
